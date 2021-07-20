@@ -1,0 +1,13 @@
+{
+    "cypress-cucumber-preprocessor": {
+        "nonGlobalStepDefinitions": true
+    },
+    "dependencies": {
+        "cypress": "^7.7.0",
+        "gerador-nome": "0.0.5"
+    },
+    "devDependencies": {
+        "cypress-cucumber-preprocessor": "^4.1.4",
+        "cypress-xpath": "^1.6.2"
+    }
+}
